@@ -27,14 +27,14 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import gamica from "./company/gamica.jpeg";
 import eg_solutions from "./company/eg_solutions.jpeg";
-import yorfy from "./projectsImages/yorfy.png";
+import learning_design from "./projectsImages/ai-40ffd8d7.png";
 import restaurant from "./projectsImages/restaurant.png";
 import ecom from "./ecom.jpg";
 
 import covidImage from "./projectsImages/covidapp.png";
 import expenseTracker from "./projectsImages/expenseTracker.png";
-import coinflip from "./projectsImages/coinflip.png";
-import todoJS from "./projectsImages/todoJS.png";
+import wacom from "./projectsImages/wacom.png";
+import bakeplus_image from "./projectsImages/bakeplus_image.png";
 import netflix from "./projectsImages/Netflix.png";
 
 export {
@@ -65,11 +65,11 @@ export {
   shopify,
   gamica,
   eg_solutions,
-  yorfy,
+  learning_design,
   covidImage,
   expenseTracker,
-  coinflip,
-  todoJS,
+  wacom,
+  bakeplus_image,
   restaurant,
   netflix,
   ecom
