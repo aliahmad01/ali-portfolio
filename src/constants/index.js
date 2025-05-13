@@ -19,14 +19,14 @@ import {
   figma,
   docker,
   meta,
-  yorfy,
+  learning_design,
   gamica,
   eg_solutions,
   shopify,
   covidImage,
   expenseTracker,
-  coinflip,
-  todoJS,
+  wacom,
+  bakeplus_image,
   threejs,
   netflix,
   ecom
@@ -205,7 +205,6 @@ const projects = [
     ],
     image: covidImage,
     liveUrl: "https://covid19trracker.surge.sh/",
-    source_code_link: "https://github.com/ehtashamtoor/covid19tracker/",
   },
   {
     name: "Expense Tracker",
@@ -223,37 +222,14 @@ const projects = [
     ],
     image: expenseTracker,
     liveUrl: "https://exxpense-manageer.surge.sh/",
-    source_code_link: "https://github.com/ehtashamtoor/expense-manager",
   },
   {
-    name: "Coin Flip Design",
+    name: "Wacom",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: coinflip,
-    liveUrl: "https://coin-flip-jade.vercel.app/",
-    source_code_link: "https://github.com/ehtashamtoor/CoinFLip",
-  },
-  {
-    name: "TodoApp(JS)",
-    description:
-      "A simple todo app built using javascript to test the javascript logic. In it you can read  your todos, add them from the fields and even edit and delete them.",
-    tags: [
-      {
-        name: "nextjs",
+        name: "magento",
         color: "blue-text-gradient",
       },
       {
@@ -264,29 +240,68 @@ const projects = [
         name: "css",
         color: "pink-text-gradient",
       },
+      {
+        name: "XML",
+        color: "yellow-text-gradient",
+      },
+      {
+        name: "jquery",
+        color: "dualpink-text-gradient",
+      },
     ],
-    image: todoJS,
-    liveUrl: "https://todo-appjs.surge.sh/",
-    source_code_link: "https://github.com/ehtashamtoor/Todo-app-Vanilla-JS",
+    image: wacom,
+    liveUrl: "https://estore.wacom.kr/",
   },
-
   {
-    name: "Yorfy",
+    name: "Bakeplus",
     description:
-      "A Yorfy Responsive website design made using MATERIAL UI. MUI is from the top most css styling frameworks in the world today. This project gives an insight about the styling made using MUI.",
+      "BakePlus is an online store offering a wide range of baking and cooking ingredients like powdered eggs, cocoa, and milk powders. It caters to both retail and industrial customers with customizable packaging and ready-made mixes. The site features a clean layout, organized categories, and support for bulk orders..",
     tags: [
       {
-        name: "react",
+        name: "magento",
         color: "blue-text-gradient",
       },
       {
-        name: "MUI",
+        name: "javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
         color: "pink-text-gradient",
       },
+      {
+        name: "XML",
+        color: "yellow-text-gradient",
+      },
+      {
+        name: "jquery",
+        color: "dualpink-text-gradient",
+      },
     ],
-    image: yorfy,
-    liveUrl: "https://yorrfy.vercel.app/",
-    source_code_link: "https://github.com/ehtashamtoor/Yorfy/",
+    image: bakeplus_image,
+    liveUrl: "https://shop.mcstaging.bakeplus.com/",
+  },
+
+  {
+    name: "Learning Design",
+    description:
+      "Learning Design.ai is a platform designed to streamline and democratize the learning design process, making it accessible to individuals and organizations regardless of their Learning and Development (L&D) background. It leverages advanced AI technology to assist users in creating effective training programs efficiently.",
+    tags: [
+      {
+        name: "Laravel",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Tailwind Css",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "jquery",
+        color: "dualpink-text-gradient",
+      },
+    ],
+    image: learning_design,
+    liveUrl: "https://learningdesign.ai/",
   },
   {
     name: "Ecom Design",
