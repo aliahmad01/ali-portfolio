@@ -153,7 +153,7 @@ const experiences = [
     company_name: "EG Solutions Pvt Ltd",
     icon: eg_solutions,
     iconBg: "rgb(29, 24, 54)",
-    date: "October 2024 - Present",
+    date: "October 2023 - Present",
     points: [
       "Worked on multiple frameworks like Nextjs, Reactjs, Laravel and Magento 2 etc",
       "Lead the Skillmatch Website (A platform for the recruitment Process)",
